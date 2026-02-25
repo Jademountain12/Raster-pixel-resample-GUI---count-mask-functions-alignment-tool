@@ -284,7 +284,7 @@ Align output raster to:
 | 6 GB | 1m → 10m | COUNT | ~40 seconds |
 | 6 GB | 1m → 5m | MEAN | ~150 seconds |
 
-### Speed Comparison (6GB ERAMMP Data)
+### Speed Comparison (6GB Data)
 
 | Approach | Time | Speed vs Python |
 |----------|------|-----------------|
