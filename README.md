@@ -125,7 +125,7 @@ Perfect for understanding performance tradeoffs between:
 
 ## Usage Examples
 
-### Example 1: ERAMMP Survey Data Aggregation
+### Example 1:  Classified Habitat Data Aggregation
 
 ```
 Input: 1m resolution habitat classification raster (6GB)
