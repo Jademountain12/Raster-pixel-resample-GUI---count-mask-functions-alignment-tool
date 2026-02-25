@@ -411,7 +411,7 @@ If you use this tool in research, please cite:
 ```
 Advanced Raster Resampling Tool (Version 8.0)
 For environmental monitoring and GIS analysis
-GitHub: [your-github-repo]
+GitHub: https://github.com/Jademountain12
 ```
 
 ---
@@ -460,7 +460,7 @@ Built with:
 - **Python** - Core language
 
 Perfect for:
-- ERAMMP survey data analysis
+- Classified survey data analysis
 - LiDAR processing and classification
 - Environmental monitoring
 - Habitat mapping
