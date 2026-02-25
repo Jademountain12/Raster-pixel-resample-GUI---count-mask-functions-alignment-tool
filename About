@@ -6,3 +6,5 @@ All the while adding extra functionality that may or may not be useful.
 I particuarly like the ability to export the script - though not completly representing what will be done based on your script export flavour
 
 There is still a lot of work to be done on this tool on GUI functions added - i think tabbed pages will makes things simpler.
+
+Also analyse needs to calculate the nodata and update the gui for exclusion.
