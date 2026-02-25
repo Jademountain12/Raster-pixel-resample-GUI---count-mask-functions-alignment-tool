@@ -1,0 +1,7 @@
+While resampling data to 10m with Pixel Counting for the Living Wales project, i was finding the process slow and the computer was not using all the processing cores. 
+Using my knowledge of GIS processes I worked with ClaudeAI to create a GUI that would do the heavy lifting on file resampling.
+
+All the while adding extra functionality that may or may not be useful. 
+
+I particuarly like the ability to export the script - though not completly representing what will be done based on your script export flavour
+
